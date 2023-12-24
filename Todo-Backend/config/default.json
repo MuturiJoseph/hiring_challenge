@@ -1,0 +1,5 @@
+ {
+    "db": "mongodb://localhost/todo",
+    "port": "3900",
+    "requiresAuth": false
+  }
